@@ -1,0 +1,28 @@
+# valid tuple
+t1 = ('a',)
+
+# valid tuple
+t2 = 'a',
+
+# NOT a tuple
+t3 = ('a')
+
+tuple_example = (1, '2', True)
+navy_blue = (0, 0, 128)
+
+my_dna = ('GCT', 'AGC', 'AGG', 'TAA', 'ACT', 'CAT')
+print(my_dna[2]) # Output: AGG
+
+
+full_name = ('Ada', 'Lovelace')
+
+first_name = full_name[0]
+
+print(first_name) # Output: Ada
+
+# Combining tuples
+t1 = 'a',
+t2 = 'b',
+t3 = t1 + t2
+
+print(t3)  # Output: ('a', 'b')
