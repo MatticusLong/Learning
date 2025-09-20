@@ -1,0 +1,15 @@
+In this chapter, we learned the following:
+
+int, float, str, and bool types.
+Tuples are ordered, immutable sequences.
+Dictionaries are unordered sequences of key-value pairs.
+Sets are unordered lists of unique items.
+
+# Tuple
+teams = ('TeamA', 'TeamB')
+
+# Dictionary
+basketball_player = {'name': 'LeBron James', 'team': 'Los Angeles Lakers'}
+
+# Set
+soccer_positions = {'Forward', 'Midfielder', 'Defender', 'Goalkeeper'}
